@@ -15,10 +15,11 @@ Para el correcto funcionamiento del código, es necesario contar con:
 2. Incluir las carpetas de este repositorio dentro de sw/applications.
 ### Guía de ejecución
 Los comandos para ejecutar son los siguientes comenzando desde la raíz del repositorio:
+```bash
 make clean-app
 make app PROJECT=NOMBRE_DEL_PROYECTO/CARPETA TARGET=sim
 make verilator-sim
 cd build/eslepfl_systems_heepsilon_0/sim-verilator
 ./Vtestharness +firmware=../../../sw/build/main.hex
 cat uart0.log
-
+```
