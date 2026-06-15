@@ -1,4 +1,4 @@
-# TFG "Implementación eficiente de la FFT para una CGRAintegrada de bajo consumo en la plataforma X-HEEP"
+# TFG "Implementación eficiente de la FFT para una CGRA integrada de bajo consumo en la plataforma X-HEEP"
 Repositorio correspondiente al Trabajo de Fin de Grado de Isabel L. Frías Castillo, realizado para la asignatura "Trabajo de Fin de Grado" (Curso 2025/2026, Convocatoria de junio 2026).
 
 ## Descripción del proyecto
