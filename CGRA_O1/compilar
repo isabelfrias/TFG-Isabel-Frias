@@ -1,0 +1,7 @@
+cd /workspace/heepsilon
+make clean-app
+make app PROJECT=CGRA_O1 TARGET=sim
+make verilator-sim
+cd build/eslepfl_systems_heepsilon_0/sim-verilator
+./Vtestharness +firmware=../../../sw/build/main.hex
+cat uart0.log
