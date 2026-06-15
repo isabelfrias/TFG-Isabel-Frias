@@ -12,7 +12,7 @@ Para el correcto funcionamiento del código, es necesario contar con:
 
 ## Ejecución de las implementaciones 
 1. Clonar el repositorio **HEEPsilon** del fork del grupo *UMALabRISCV*: https://github.com/UMALabRISCV/HEEPsilon.git. y realizar la instalación de Docker siguiendo los pasos del README.
-2. Incluir las carpetas de este repositorio dentro de ```bash sw/applications ```.
+2. Incluir las carpetas de este repositorio dentro de ```sw/applications ```.
 ### Guía de ejecución
 Los comandos para ejecutar son los siguientes comenzando desde la raíz del repositorio:
 ```bash
